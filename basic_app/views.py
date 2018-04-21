@@ -13,5 +13,8 @@ def about_us(request):
 def what_we_do(request):
     return render(request, 'basic_app/what_we_do.html')
 
+def service_pricing(request):
+    return render(request, 'basic_app/service_pricing.html')
+
 def relative(request):
     return render(request, 'basic_app/relative_url_templates.html')
