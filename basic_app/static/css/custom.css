@@ -1,0 +1,26 @@
+
+h1{
+  color: red;
+  font-family: 'Patrick Hand SC', cursive;
+}
+
+p{
+  color: green;
+  font-family: 'Annie Use Your Telescope', cursive;
+}
+
+.navbar-fixed-top {
+
+    border-color: #ffffff;
+    background-color: #ffffff;
+}
+
+.navbar-brand .navbar-text {
+
+  color: white;
+
+}
+
+li{
+  color: white;
+}
