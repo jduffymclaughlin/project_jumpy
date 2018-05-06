@@ -12,6 +12,12 @@ h3{
   font-family: 'Josefin Sans', sans-serif;
 }
 
+#panels{
+  align-content: center;
+  align-self: center;
+  align-items: center;
+  width: 900px;
+}
 
 
 .carousel-caption h1{
