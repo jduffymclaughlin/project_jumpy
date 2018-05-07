@@ -18,3 +18,6 @@ def service_pricing(request):
 
 def relative(request):
     return render(request, 'basic_app/relative_url_templates.html')
+
+def contact(request):
+    return render(request, 'basic_app/contact.html')

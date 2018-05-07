@@ -12,11 +12,25 @@ h3{
   font-family: 'Josefin Sans', sans-serif;
 }
 
+.form-group label{
+  color: purple;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
 #panels{
   align-content: center;
   align-self: center;
   align-items: center;
   width: 900px;
+}
+.panel-title{
+  color: purple;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.contactsubmit{
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 
@@ -24,8 +38,14 @@ h3{
   color: white;
 }
 
+.panel-body{
+  color: darkgreen;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
 p{
-  color: green;
+  color: darkgreen;
+  font-size: 12pt;
   font-family: 'Josefin Sans', sans-serif;
 }
 

@@ -31,12 +31,12 @@
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
               <li><a class="navbar-brand" href="{% url 'index' %}"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2fEr-loo4P6gNwgNZD_AlaDsmChBF-3henSNkMWkKv7fWxbu" height="35" width="35"/></a></li>
-              <li><a class="navbar-brand" href="{% url 'index' %}">Project Jumpy</li>
+              <li><a class="navbar-brand" href="{% url 'index' %}">Project Jumpy</li><br>
               <li><a class="navbar-link" href="{% url 'basic_app:about_us' %}">About Us</a></li>
               <li><a class="navbar-link" href="{% url 'basic_app:what_we_do' %}">What We Do</a></li>
               <li><a class="navbar-link" href="{% url 'basic_app:service_pricing' %}">Service/Pricing</a></li>
 
-              <li><a class="navbar-link" href="{% url 'basic_app:other' %}">Contact</a></li>
+              <li><a class="navbar-link" href="{% url 'basic_app:contact' %}">Contact</a></li>
             </ul>
           </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
@@ -54,7 +54,8 @@
 
       <footer>
         <p class="pull-right"><a href="#">Back to top  &middot;  </a></p>
-        <p>    &copy; 2018 Project Jumpy, Inc. &middot; <a href="{% url 'basic_app:other' %}">Contact</a> &middot; </p>
+        <p>    &copy; 2018 Project Jumpy, Inc. &middot; <a href="{% url 'basic_app:contact' %}">Contact</a> &middot; </p>
+        <br>
       </footer>
 
 
