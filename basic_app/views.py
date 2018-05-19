@@ -1,4 +1,5 @@
 from django.shortcuts import render
+#from collection.forms import ContactForm
 
 # Create your views here.
 def index(request):
@@ -21,3 +22,10 @@ def relative(request):
 
 def contact(request):
     return render(request, 'basic_app/contact.html')
+
+# def contact2(request):
+#     form_class = ContactForm
+
+#     return render(request, 'contact.html', {
+#         'form': form_class,
+#     })

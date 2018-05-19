@@ -1,22 +1,17 @@
 
 h1{
   color: purple;
-  font-family: 'Josefin Sans', sans-serif;
-}
+  font-family: 'Gentium Book Basic', serif;}
 h2{
   color: purple;
-  font-family: 'Josefin Sans', sans-serif;
-}
+  font-family: 'Gentium Book Basic', serif;}
 h3{
   color: purple;
-  font-family: 'Josefin Sans', sans-serif;
-}
+  font-family: 'Gentium Book Basic', serif;}
 
 .form-group label{
   color: purple;
-  font-family: 'Josefin Sans', sans-serif;
-}
-
+  font-family: 'Gentium Book Basic', serif;}
 
 #panels{
   align-content: center;
@@ -26,12 +21,10 @@ h3{
 }
 .panel-title{
   color: purple;
-  font-family: 'Josefin Sans', sans-serif;
-}
+  font-family: 'Gentium Book Basic', serif;}
 
 .contactsubmit{
-  font-family: 'Josefin Sans', sans-serif;
-}
+  font-family: 'Gentium Book Basic', serif;}
 
 
 .carousel-caption h1{
@@ -40,14 +33,12 @@ h3{
 
 .panel-body{
   color: darkgreen;
-  font-family: 'Josefin Sans', sans-serif;
-}
+  font-family: 'Gentium Book Basic', serif;}
 
 p{
   color: darkgreen;
   font-size: 12pt;
-  font-family: 'Josefin Sans', sans-serif;
-}
+  font-family: 'Gentium Book Basic', serif;}
 
 .navbar-fixed-top {
     border-color: #ffffff;
@@ -56,8 +47,7 @@ p{
 
 .nav.navbar-nav li a{
   color: green;
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 17pt;
+  font-family: 'Gentium Book Basic', serif;  font-size: 17pt;
 }
 
 

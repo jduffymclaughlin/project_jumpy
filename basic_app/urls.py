@@ -11,4 +11,5 @@ urlpatterns=[
     url(r'^what_we_do/$', views.what_we_do, name='what_we_do'),
     url(r'^service_pricing/$', views.service_pricing, name='service_pricing'),
     url(r'^contact/$', views.contact, name='contact'),
+    url(r'^contact2/$', views.contact, name='contact2')
 ]
